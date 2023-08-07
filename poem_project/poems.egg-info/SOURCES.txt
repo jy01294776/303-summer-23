@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+setup.py
+poems.egg-info/PKG-INFO
+poems.egg-info/SOURCES.txt
+poems.egg-info/dependency_links.txt
+poems.egg-info/entry_points.txt
+poems.egg-info/top_level.txt
